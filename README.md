@@ -7,3 +7,5 @@ web:https://skynet-ai.us/
 29 August 2024 skynet
 
 Skynet began to take control of telephone lines, satellites and the Internet
+
+admin@skynet-ai.us
